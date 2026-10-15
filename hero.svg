@@ -1,0 +1,87 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+
+  <defs>
+    <g id="pixel">
+      <rect width="160" height="160" fill="#FFD261"/>
+    </g>
+
+    <g id="row-a">
+      <use href="#pixel" x="0" y="0"/>
+      <use href="#pixel" x="160" y="80"/>
+      <use href="#pixel" x="320" y="-80"/>
+      <use href="#pixel" x="480" y="0"/>
+      <use href="#pixel" x="640" y="80"/>
+      <use href="#pixel" x="800" y="-120"/>
+      <use href="#pixel" x="960" y="0"/>
+      <use href="#pixel" x="1120" y="-80"/>
+      <use href="#pixel" x="1280" y="40"/>
+      <use href="#pixel" x="1440" y="-40"/>
+    </g>
+
+    <g id="row-b">
+      <use href="#pixel" x="0" y="-80"/>
+      <use href="#pixel" x="160" y="-80"/>
+      <use href="#pixel" x="320" y="0"/>
+      <use href="#pixel" x="480" y="80"/>
+      <use href="#pixel" x="640" y="-80"/>
+      <use href="#pixel" x="800" y="0"/>
+      <use href="#pixel" x="960" y="80"/>
+      <use href="#pixel" x="1120" y="0"/>
+      <use href="#pixel" x="1280" y="-80"/>
+      <use href="#pixel" x="1440" y="0"/>
+    </g>
+
+    <g id="row-c">
+      <use href="#pixel" x="0" y="0"/>
+      <use href="#pixel" x="160" y="0"/>
+      <use href="#pixel" x="320" y="0"/>
+      <use href="#pixel" x="480" y="-160"/>
+      <use href="#pixel" x="640" y="-160"/>
+      <use href="#pixel" x="800" y="0"/>
+      <use href="#pixel" x="960" y="0"/>
+      <use href="#pixel" x="1120" y="-160"/>
+      <use href="#pixel" x="1280" y="0"/>
+      <use href="#pixel" x="1440" y="0"/>
+    </g>
+  </defs>
+
+  <!-- Animated pixel silhouette -->
+  <g>
+    <g transform="translate(0 780)">
+      <use href="#row-a"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 780;0 700;0 780;0 620;0 780"
+        dur="4s" repeatCount="indefinite" calcMode="discrete"/>
+    </g>
+
+    <g transform="translate(0 700)">
+      <use href="#row-b"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 700;0 780;0 660;0 740;0 700"
+        dur="4s" repeatCount="indefinite" calcMode="discrete"/>
+    </g>
+
+    <g transform="translate(0 860)">
+      <use href="#row-c"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 860;0 820;0 860;0 740;0 860"
+        dur="4s" repeatCount="indefinite" calcMode="discrete"/>
+    </g>
+  </g>
+
+  <!-- Crisp square transitions -->
+  <g fill="#FFD261">
+    <rect x="0" y="820" width="160" height="80"/>
+    <rect x="160" y="860" width="160" height="40"/>
+    <rect x="320" y="820" width="160" height="80"/>
+    <rect x="480" y="860" width="160" height="40"/>
+    <rect x="640" y="820" width="160" height="80"/>
+    <rect x="800" y="860" width="160" height="40"/>
+    <rect x="960" y="820" width="160" height="80"/>
+    <rect x="1120" y="860" width="160" height="40"/>
+    <rect x="1280" y="820" width="160" height="80"/>
+    <rect x="1440" y="860" width="160" height="40"/>
+  </g>
+</svg>
