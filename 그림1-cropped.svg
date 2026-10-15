@@ -1,0 +1,16 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.0" id="svg9" sodipodi:docname="그림1.emf" viewBox="0.08 0.28 1399.58 293.6">
+  <sodipodi:namedview id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm"/>
+  <defs id="defs1">
+    <pattern id="EMFhbasepattern" patternUnits="userSpaceOnUse" width="6" height="6" x="0" y="0"/>
+  </defs>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 90.155317,145.35245   L 90.155317,193.82993   L 135.11298,193.82993   L 135.11298,145.35245   L 90.155317,145.35245   z " id="path1"/>
+  <text xml:space="preserve" style="font-size:221.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Semibold;text-align:start;text-anchor:start;" transform="matrix(1.000000,-0.000000,0.000000,1.000000,234.747495,238.676197)" x="0.000000" y="0.000000" id="text2"><tspan sodipodi:role="line" x="0.000000" y="0.000000" id="tspan2"><tspan dx="0.000000" dy="0.000000" style="fill:#000000;font-size:221.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Segoe UI Semibold;" id="tspan1">FeatherLine</tspan></tspan></text>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 45.037661,96.714977   L 45.037661,145.35245   L 90.155317,145.35245   L 90.155317,96.714977   L 45.037661,96.714977   z " id="path2"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 45.037661,193.82993   L 45.037661,242.30741   L 90.155317,242.30741   L 90.155317,193.82993   L 45.037661,193.82993   z " id="path3"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 45.037661,62.95673   L 45.037661,111.43421   L 90.155317,111.43421   L 90.155317,62.95673   L 45.037661,62.95673   z " id="path4"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 45.037661,242.30741   L 45.037661,290.7849   L 90.155317,290.7849   L 90.155317,242.30741   L 45.037661,242.30741   z " id="path5"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 90.155317,14.319256   L 90.155317,62.95673   L 135.11298,62.95673   L 135.11298,14.319256   L 90.155317,14.319256   z " id="path6"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 0.079995845,145.35245   L 0.079995845,193.82993   L 45.037661,193.82993   L 45.037661,145.35245   L 0.079995845,145.35245   z " id="path7"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 135.11298,98.794869   L 135.11298,147.27235   L 180.07065,147.27235   L 180.07065,98.794869   L 135.11298,98.794869   z " id="path8"/>
+  <path style="fill:#ffd261;fill-rule:evenodd;fill-opacity:1;stroke:none;" d="  M 135.11298,193.82993   L 135.11298,242.30741   L 180.07065,242.30741   L 180.07065,193.82993   L 135.11298,193.82993   z " id="path9"/>
+</svg>
